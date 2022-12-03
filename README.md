@@ -1,8 +1,11 @@
 # TXON_04
 This is a portfolio website created as a part of an internship in txon.
 
-Dark Mode !
-![Screenshot (55)](https://user-images.githubusercontent.com/91107260/205426279-e44d9c13-d613-46f0-a7af-bc45a11f4a75.png)
+# Dark Mode !
 
-Light Mode !
-![Screenshot (56)](https://user-images.githubusercontent.com/91107260/205426291-814b9550-82f8-4cfb-a4d4-16aae7fe8bd0.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/91107260/205426438-bc8a11b9-262a-45fe-9c97-d4fabd37308c.png)
+
+
+# Light Mode !
+
+![Screenshot (59)](https://user-images.githubusercontent.com/91107260/205426442-9337fbb0-4184-4935-8a51-c245cfc6bceb.png)
